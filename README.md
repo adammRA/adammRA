@@ -32,7 +32,7 @@ I am a student at Politeknik Ungku Omar, currently pursuing IT with a focus on n
 
 ## Currently Learning
 
-- Implementing WireGuard with ipv6
+-Build an farming monitoring app for final year project
 
 
 
