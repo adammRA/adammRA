@@ -23,6 +23,7 @@ I am a student at Politeknik Ungku Omar, currently pursuing IT with a focus on n
 
 - Hosting a NAS server at home using ddns
 - Building a IOT system using RemoteXY [https://github.com/adammRA/ESP32-with-DHT11-and-remoteXY]
+- Deploy a home server using cloudflare tunnel
   
 
 ## Connect with Me
